@@ -1,0 +1,172 @@
+/* Anser CSS in this */
+/* quection 1 */
+#pond {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* quection 2 */
+#pond {
+  display: flex;
+  justify-content: center;
+}
+
+/* quection 3 */
+#pond {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* quection 4 */
+#pond {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* quection 5 */
+#pond {
+  display: flex;
+  align-items: flex-end;
+}
+
+/* quection 6 */
+#pond {
+  display: flex;
+
+align-items: center;
+justify-content: center;
+}
+
+/* quection 7 */
+#pond {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+
+/* quection 8 */
+#pond {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+/* quection 9 */
+#pond {
+  display: flex;
+  flex-direction: column
+}
+
+/* quection 10 */
+#pond {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
+
+/* quection 11 */
+#pond {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+/* quection 12 */
+#pond {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: space-between
+}
+
+/* quection 13 */
+#pond {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-direction: row-reverse;
+}
+
+/* quection 14 */
+#pond {
+  display: flex;
+}
+.yellow {
+  order: 1;
+}
+
+/* quection 15 */
+#pond {
+  display: flex;
+}
+.red {
+  order: -3;
+}
+
+/* quection 16 */
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
+.yellow {
+  align-self: flex-end;
+}
+
+/* quection 17 */
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
+.yellow {
+  align-self: flex-end;
+  order: 1;
+}
+
+/* quection 18 */
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* quection 19 */
+#pond {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+/* quection 20 */
+#pond {
+  display: flex;
+  flex-flow: column-reverse wrap ;
+}
+
+/* quection 21 */
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+/* quection 22 */
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-end;
+}
+
+/* quection 23 */
+#pond {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column-reverse;
+  align-content: center;
+}
+
+/* quection 24 */
+#pond {
+  display: flex;
+  flex-direction: column-reverse ;
+  flex-wrap: wrap-reverse;
+  justify-content: center;
+  align-content: space-between;
+}
+
